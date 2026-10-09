@@ -1,0 +1,76 @@
+ 
+PC: Piensa un número del 1 al 10, y lo intento adivinar en 3 intentos.
+Pulsa Enter cuando lo hayas pensado. [PJ-> Enter]
+
+PC: ¿Es el 5? (s/n)
+[PJ -> n]
+
+PC: ¿Es más alto o más bajo?(a/b)
+[PJ -> a]
+
+PC: ¿Es el 8? (s/n)
+[PJ -> n]
+
+PC: ¿Es más alto o más bajo?(a/b)
+[PJ -> b]
+
+PC: ¿Es el 7? (s/n)
+[PJ -> s]
+
+PC: ¡Genial, acerté a la tercera!
+
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////
+SOLUCIÓN
+////////////////////////////////////////////////////////////////////////////
+            Random rng = new Random();
+            int numPC = 0;
+            string respuesta = "";
+            bool interruptor = true;
+            int minimo = 1, maximo = 11;
+            int intentos = 0;
+
+            Console.WriteLine("Piensa un número del "+ minimo + " al "+ (maximo-1) + ", y lo intento adivinar en 3 intentos.");
+            Console.WriteLine("Pulsa Enter cuando lo hayas pensado.");
+            Console.ReadLine();
+
+            while (interruptor)
+            {
+                numPC = rng.Next(minimo, maximo);
+                Console.WriteLine("Estoy pensando en un número entre el " + minimo + " y el " + (maximo-1));
+                intentos = intentos + 1;
+                Console.WriteLine("¿Es el " + numPC + "? (s/n)");
+                respuesta = Console.ReadLine();
+                if (respuesta == "s")
+                {
+                    Console.WriteLine("¡Genial, acerté al intento "+ intentos+"!");
+                    interruptor = false;
+                }
+                else
+                {
+                    if (intentos == 3)
+                    {
+                        Console.WriteLine("Perdí.");
+                        interruptor = false;
+                    }
+                    else
+                    {
+                        Console.WriteLine("¿Es más alto o más bajo?(a/b)");
+                        respuesta = Console.ReadLine();
+                        if (respuesta == "a")
+                        {
+                            minimo = numPC + 1;
+                        }
+                        else // b
+                        {
+                            maximo = numPC;
+                        }
+                    }
+                }
+            }

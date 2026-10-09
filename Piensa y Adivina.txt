@@ -1,0 +1,26 @@
+PC: He pensado un número del 1 al 10, tienes 3 intentos para adivinarlo.
+
+Primer intento:  [PJ-> 4]
+
+PC: No, el que he pensado es más alto.
+
+Segundo intento: [PJ -> 8]
+
+PC: No, el que he pensado es más bajo.
+
+Tercer intento: [PJ -> 6]
+
+Acertaste !!! Punto para ti.
+
+/////////////////////
+Versiones incrementales:
+	1ª.- Le pedimos un número la jugador y lo recogemos.
+	2ª.- Pensamos un número al azar del 1 al 10, y comparamos lo que nos dice el jugador,
+		para ver si ha acertado o no.
+	3ª.- Además, le decimos si el que hemos pensado es mayor o menor.
+	4ª.- Le dejamos hacer el segundo intento.
+
+
+
+
+

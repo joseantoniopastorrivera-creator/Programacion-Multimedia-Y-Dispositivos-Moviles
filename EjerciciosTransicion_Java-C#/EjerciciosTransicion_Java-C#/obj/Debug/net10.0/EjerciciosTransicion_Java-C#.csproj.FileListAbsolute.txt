@@ -1,0 +1,14 @@
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/bin/Debug/net10.0/EjerciciosTransicion_Java-C#
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/bin/Debug/net10.0/EjerciciosTransicion_Java-C#.deps.json
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/bin/Debug/net10.0/EjerciciosTransicion_Java-C#.runtimeconfig.json
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/bin/Debug/net10.0/EjerciciosTransicion_Java-C#.dll
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/bin/Debug/net10.0/EjerciciosTransicion_Java-C#.pdb
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/obj/Debug/net10.0/EjerciciosTransicion_Java-C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/obj/Debug/net10.0/EjerciciosTransicion_Java-C#.AssemblyInfoInputs.cache
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/obj/Debug/net10.0/EjerciciosTransicion_Java-C#.AssemblyInfo.cs
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/obj/Debug/net10.0/EjerciciosTransicion_Java-C#.csproj.CoreCompileInputs.cache
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/obj/Debug/net10.0/EjerciciosTransicion_Java-C#.dll
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/obj/Debug/net10.0/refint/EjerciciosTransicion_Java-C#.dll
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/obj/Debug/net10.0/EjerciciosTransicion_Java-C#.pdb
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/obj/Debug/net10.0/EjerciciosTransicion_Java-C#.genruntimeconfig.cache
+/home/alumno/Escritorio/PMDM/EjerciciosTransicion_Java-C#/EjerciciosTransicion_Java-C#/obj/Debug/net10.0/ref/EjerciciosTransicion_Java-C#.dll
