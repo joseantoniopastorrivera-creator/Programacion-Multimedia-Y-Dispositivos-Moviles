@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\EjerciciosTransicion_Java-C#\\EjerciciosTransicion_Java-C#\\EjerciciosTransicion_Java-C#.csproj": {}
+    "C:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\Transicion-Java-C#\\01-Conceptos-Basicos-Y-Condicionales\\EjerciciosTransicion_Java-C#.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\EjerciciosTransicion_Java-C#\\EjerciciosTransicion_Java-C#\\EjerciciosTransicion_Java-C#.csproj": {
+    "C:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\Transicion-Java-C#\\01-Conceptos-Basicos-Y-Condicionales\\EjerciciosTransicion_Java-C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\EjerciciosTransicion_Java-C#\\EjerciciosTransicion_Java-C#\\EjerciciosTransicion_Java-C#.csproj",
+        "projectUniqueName": "C:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\Transicion-Java-C#\\01-Conceptos-Basicos-Y-Condicionales\\EjerciciosTransicion_Java-C#.csproj",
         "projectName": "EjerciciosTransicion_Java-C#",
-        "projectPath": "C:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\EjerciciosTransicion_Java-C#\\EjerciciosTransicion_Java-C#\\EjerciciosTransicion_Java-C#.csproj",
+        "projectPath": "C:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\Transicion-Java-C#\\01-Conceptos-Basicos-Y-Condicionales\\EjerciciosTransicion_Java-C#.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\EjerciciosTransicion_Java-C#\\EjerciciosTransicion_Java-C#\\obj\\",
+        "outputPath": "C:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\Transicion-Java-C#\\01-Conceptos-Basicos-Y-Condicionales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

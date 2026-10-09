@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjerciciosTransicion_Java-C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c9fb024b517ac2f83191c60eaf717eebdeffa84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d2e19de7c248d5c4af81cbdccc72f1dd934f2f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjerciciosTransicion_Java-C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjerciciosTransicion_Java-C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
