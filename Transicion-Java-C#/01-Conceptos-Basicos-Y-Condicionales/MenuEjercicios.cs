@@ -5,10 +5,10 @@ using System.Globalization;
 class MenuEjercicios
 {
     // Códigos ANSI RGB precisos
-    static string emerald = "\x1b[38;2;80;200;120m";
-    static string pomerade = "\x1b[38;2;192;57;43m";
-    static string cyanTitle = "\x1b[38;2;52;152;219m";
-    static string reset = "\x1b[0m";
+    public const string emerald = "\x1b[38;2;80;200;120m";
+    public const string pomerade = "\x1b[38;2;192;57;43m";
+    public const string cyanTitle = "\x1b[38;2;52;152;219m";
+    public const string reset = "\x1b[0m";
 
     static void Main(string[] args)
     {

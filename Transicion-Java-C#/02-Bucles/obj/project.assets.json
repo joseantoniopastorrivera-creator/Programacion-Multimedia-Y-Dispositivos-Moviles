@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\Transicion-Java-C#\\01-Conceptos-Basicos-Y-Condicionales\\01-Conceptos-Basicos-Y-Condicionales.csproj",
-      "projectName": "01-Conceptos-Basicos-Y-Condicionales",
-      "projectPath": "c:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\Transicion-Java-C#\\01-Conceptos-Basicos-Y-Condicionales\\01-Conceptos-Basicos-Y-Condicionales.csproj",
+      "projectUniqueName": "c:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\Transicion-Java-C#\\02-Bucles\\02-Bucles.csproj",
+      "projectName": "02-Bucles",
+      "projectPath": "c:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\Transicion-Java-C#\\02-Bucles\\02-Bucles.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "c:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\Transicion-Java-C#\\01-Conceptos-Basicos-Y-Condicionales\\obj\\",
+      "outputPath": "c:\\dev\\Programacion-Multimedia-Y-Dispositivos-Moviles\\Transicion-Java-C#\\02-Bucles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

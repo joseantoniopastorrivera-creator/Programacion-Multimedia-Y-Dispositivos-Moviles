@@ -8,14 +8,14 @@ public class Ejercicio0
 {
     public static void Ejecutar()
     {
-        Console.WriteLine(MenuEjercicios.AzulClaro + "---INICIANDO SECUENCIA DE LANZAMIENTO---" + MenuEjercicios.Reset);
+        Console.WriteLine(MenuEjercicios.Azul + "---INICIANDO SECUENCIA DE LANZAMIENTO---" + MenuEjercicios.Reset);
         for (int i = 10; i >= 0; i--)
         {
             Console.WriteLine($"{i}...");
             //Pausa de 1 segundo entre cada número
             Thread.Sleep(1000);
         }
-        Console.WriteLine(MenuEjercicios.Emeral + "¡DESPEGUE!");
+        Console.WriteLine(MenuEjercicios.Verde + "¡DESPEGUE!" + MenuEjercicios.Reset);
 
         Console.WriteLine("\nPulsa cualquier tecla para volver al menú...");
         Console.ReadKey();

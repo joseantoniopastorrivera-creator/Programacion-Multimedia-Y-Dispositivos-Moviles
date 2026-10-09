@@ -3,9 +3,9 @@
 class MenuEjercicios
 {
     // Colores
-    public const string Emeral = "\x1b[92m";
-    public const string Pomerade = "\x1b[31m";
-    public const string AzulClaro = "\x1b[94m";
+    public const string Verde = "\x1b[38;2;80;200;120m";
+    public const string Rojo = "\x1b[38;2;192;57;43m";
+    public const string Azul = "\x1b[38;2;52;152;219m";
     public const string Reset = "\x1b[0m";
 
     public static void Main(string[] args)
@@ -14,7 +14,7 @@ class MenuEjercicios
 
         while (opcion != -1)
         {
-            Console.WriteLine(AzulClaro + "\n--- MENÚ DE EJERCICIOS ---" + Reset);
+            Console.WriteLine(Azul + "\n--- MENÚ DE EJERCICIOS ---" + Reset);
             Console.WriteLine("0. Cuenta atrás de cohete desde 10.");
             Console.WriteLine("1. Mostrar los números impares entre 0 y 100.");
             Console.WriteLine("2. Mostrar los números pares entre 0 y 100.");
@@ -42,14 +42,14 @@ class MenuEjercicios
             Console.WriteLine("24. Contar cada tipo de vocal en un texto.");
             Console.WriteLine("25. Leer N números e imprimirlos en orden inverso.");
             Console.WriteLine("26. Cambiar vocales por números (a=4, e=3, i=1, o=0).");
-            Console.WriteLine(Emeral + "-1. Salir." + Reset);
+            Console.WriteLine(Verde + "-1. Salir." + Reset);
 
             Console.Write("\nIntroduce una opción: ");
             string respuesta = Console.ReadLine();
 
             if (!int.TryParse(respuesta, out opcion) || opcion < -1 || opcion > 26)
             {
-                Console.WriteLine(Pomerade + "ERROR: Introduce una opción válida entre -1 y 26." + Reset);
+                Console.WriteLine(Rojo + "ERROR: Introduce una opción válida entre -1 y 26." + Reset);
             }
             else if (opcion != -1)
             {
@@ -57,20 +57,35 @@ class MenuEjercicios
                 switch (opcion)
                 {
                     case 0:
-                        Console.WriteLine(Emeral + "Ejecutando Ejercicio 0..." + Reset);
+                        Console.WriteLine(Verde + "Ejecutando Ejercicio 0..." + Reset);
                         Ejercicio0.Ejecutar();
                         break;
+                    case 1:
+                        Console.WriteLine(Verde + "Ejecutando Ejercicio 1..." + Reset);
+                        Ejercicio1.Ejecutar();
+                        break;
+                    case 2:
+                        Ejercicio2.Ejecutar();
+                        break;
+                    case 3:
+                        Ejercicio3.Ejecutar();
+                        break;
+                    case 4:
+                        Ejercicio4.Ejecutar();
+                        break;
+                    case 5:
+                        Ejercicio5.Ejecutar();
+                        break;
+                    case 6: Ejercicio6.Ejecutar(); break;
                     default:
-                        Console.WriteLine(Pomerade + "Opción válida, pero ejercicio no implementado todavía." + Reset);
+                        Console.WriteLine(Rojo + "Opción válida, pero ejercicio no implementado todavía." + Reset);
                         break;
 
                         /* DESCOMENTAR SEGÚN VAYAS CREANDO LAS CLASES
-                        case 1: Ejercicio1.Ejecutar(); break;
-                        case 2: Ejercicio2.Ejecutar(); break;
-                        case 3: Ejercicio3.Ejecutar(); break;
-                        case 4: Ejercicio4.Ejecutar(); break;
-                        case 5: Ejercicio5.Ejecutar(); break;
-                        case 6: Ejercicio6.Ejecutar(); break;
+                        
+                        
+                        
+                        
                         case 7: Ejercicio7.Ejecutar(); break;
                         case 8: Ejercicio8.Ejecutar(); break;
                         case 9: Ejercicio9.Ejecutar(); break;
@@ -96,6 +111,6 @@ class MenuEjercicios
             }
         }
 
-        Console.WriteLine(Emeral + "Saliendo del programa..." + Reset);
+        Console.WriteLine(Verde + "Saliendo del programa..." + Reset);
     }
 }

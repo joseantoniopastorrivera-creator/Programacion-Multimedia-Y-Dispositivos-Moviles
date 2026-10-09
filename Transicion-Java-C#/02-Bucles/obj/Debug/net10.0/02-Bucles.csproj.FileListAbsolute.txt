@@ -1,0 +1,15 @@
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\bin\Debug\net10.0\02-Bucles.exe
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\bin\Debug\net10.0\02-Bucles.deps.json
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\bin\Debug\net10.0\02-Bucles.runtimeconfig.json
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\bin\Debug\net10.0\02-Bucles.dll
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\bin\Debug\net10.0\02-Bucles.pdb
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\obj\Debug\net10.0\02-Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\obj\Debug\net10.0\02-Bucles.AssemblyInfoInputs.cache
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\obj\Debug\net10.0\02-Bucles.AssemblyInfo.cs
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\obj\Debug\net10.0\02-Bucles.csproj.CoreCompileInputs.cache
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\obj\Debug\net10.0\02-Bucles.sourcelink.json
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\obj\Debug\net10.0\02-Bucles.dll
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\obj\Debug\net10.0\refint\02-Bucles.dll
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\obj\Debug\net10.0\02-Bucles.pdb
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\obj\Debug\net10.0\02-Bucles.genruntimeconfig.cache
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\02-Bucles\obj\Debug\net10.0\ref\02-Bucles.dll
