@@ -76,41 +76,73 @@ class MenuEjercicios
                     case 5:
                         Ejercicio5.Ejecutar();
                         break;
-                    case 6: Ejercicio6.Ejecutar(); break;
+                    case 6:
+                        Ejercicio6.Ejecutar();
+                        break;
+                    case 7:
+                        Ejercicio7.Ejecutar();
+                        break;
+                    case 8:
+                        Ejercicio8.Ejecutar();
+                        break;
+                    case 9:
+                        Ejercicio9.Ejecutar();
+                        break;
+                    case 10:
+                        Ejercicio10.Ejecutar();
+                        break;
+                    case 11:
+                        Ejercicio11.Ejecutar(); break;
+                    case 12:
+                        Ejercicio12.Ejecutar();
+                        break;
+                    case 13:
+                        Ejercicio13.Ejecutar();
+                        break;
+                    case 14:
+                        Ejercicio14.Ejecutar();
+                        break;
+                    case 15:
+                        Ejercicio15.Ejecutar();
+                        break;
+                    case 16:
+                        Ejercicio16.Ejecutar();
+                        break;
+                    case 17:
+                        Ejercicio17.Ejecutar();
+                        break;
+                    case 18:
+                        Ejercicio18.Ejecutar();
+                        break;
+                    case 19:
+                        Ejercicio19.Ejecutar(); break;
+                    case 20:
+                        Ejercicio20.Ejecutar();
+                        break;
+                    case 21:
+                        Ejercicio21.Ejecutar();
+                        break;
+                    case 22:
+                        Ejercicio22.Ejecutar();
+                        break;
+                    case 23:
+                        Ejercicio23.Ejecutar();
+                        break;
+                    case 24:
+                        Ejercicio24.Ejecutar();
+                        break;
+                    case 25:
+                        Ejercicio25.Ejecutar();
+                        break;
+                    case 26:
+                        Ejercicio26.Ejecutar();
+                        break;
                     default:
                         Console.WriteLine(Rojo + "Opción válida, pero ejercicio no implementado todavía." + Reset);
                         break;
-
-                        /* DESCOMENTAR SEGÚN VAYAS CREANDO LAS CLASES
-                        
-                        
-                        
-                        
-                        case 7: Ejercicio7.Ejecutar(); break;
-                        case 8: Ejercicio8.Ejecutar(); break;
-                        case 9: Ejercicio9.Ejecutar(); break;
-                        case 10: Ejercicio10.Ejecutar(); break;
-                        case 11: Ejercicio11.Ejecutar(); break;
-                        case 12: Ejercicio12.Ejecutar(); break;
-                        case 13: Ejercicio13.Ejecutar(); break;
-                        case 14: Ejercicio14.Ejecutar(); break;
-                        case 15: Ejercicio15.Ejecutar(); break;
-                        case 16: Ejercicio16.Ejecutar(); break;
-                        case 17: Ejercicio17.Ejecutar(); break;
-                        case 18: Ejercicio18.Ejecutar(); break;
-                        case 19: Ejercicio19.Ejecutar(); break;
-                        case 20: Ejercicio20.Ejecutar(); break;
-                        case 21: Ejercicio21.Ejecutar(); break;
-                        case 22: Ejercicio22.Ejecutar(); break;
-                        case 23: Ejercicio23.Ejecutar(); break;
-                        case 24: Ejercicio24.Ejecutar(); break;
-                        case 25: Ejercicio25.Ejecutar(); break;
-                        case 26: Ejercicio26.Ejecutar(); break;
-                        */
                 }
             }
         }
-
         Console.WriteLine(Verde + "Saliendo del programa..." + Reset);
     }
 }
