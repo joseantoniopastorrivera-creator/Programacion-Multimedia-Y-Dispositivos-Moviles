@@ -1,0 +1,15 @@
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\bin\Debug\net10.0\03-Juegos.exe
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\bin\Debug\net10.0\03-Juegos.deps.json
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\bin\Debug\net10.0\03-Juegos.runtimeconfig.json
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\bin\Debug\net10.0\03-Juegos.dll
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\bin\Debug\net10.0\03-Juegos.pdb
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\obj\Debug\net10.0\03-Juegos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\obj\Debug\net10.0\03-Juegos.AssemblyInfoInputs.cache
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\obj\Debug\net10.0\03-Juegos.AssemblyInfo.cs
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\obj\Debug\net10.0\03-Juegos.csproj.CoreCompileInputs.cache
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\obj\Debug\net10.0\03-Juegos.sourcelink.json
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\obj\Debug\net10.0\03-Juegos.dll
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\obj\Debug\net10.0\refint\03-Juegos.dll
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\obj\Debug\net10.0\03-Juegos.pdb
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\obj\Debug\net10.0\03-Juegos.genruntimeconfig.cache
+C:\dev\Programacion-Multimedia-Y-Dispositivos-Moviles\Transicion-Java-C#\03-Juegos\03-Juegos\obj\Debug\net10.0\ref\03-Juegos.dll
