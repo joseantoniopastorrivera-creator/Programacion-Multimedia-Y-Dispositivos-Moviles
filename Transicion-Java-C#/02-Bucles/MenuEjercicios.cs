@@ -115,7 +115,8 @@ class MenuEjercicios
                         Ejercicio18.Ejecutar();
                         break;
                     case 19:
-                        Ejercicio19.Ejecutar(); break;
+                        Ejercicio19.Ejecutar();
+                        break;
                     case 20:
                         Ejercicio20.Ejecutar();
                         break;
